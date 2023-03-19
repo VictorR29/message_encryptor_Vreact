@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/message_encryptor_Vreact/static/css/main.e6c13ad2.css",
+    "main.js": "/message_encryptor_Vreact/static/js/main.0f35b71c.js",
+    "index.html": "/message_encryptor_Vreact/index.html",
+    "main.e6c13ad2.css.map": "/message_encryptor_Vreact/static/css/main.e6c13ad2.css.map",
+    "main.0f35b71c.js.map": "/message_encryptor_Vreact/static/js/main.0f35b71c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0f35b71c.js"
+  ]
+}
